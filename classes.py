@@ -16,3 +16,9 @@ class Complex:
 		self.i = imagpart
 complex = Complex(1, 2)
 print(complex.r, complex.i)
+
+"""
+output
+8
+1 2
+"""
